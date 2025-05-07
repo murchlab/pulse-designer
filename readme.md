@@ -23,6 +23,7 @@ Click the badge above (or visit the link below) to open the `pulse_designer.ipyn
 git clone https://github.com/murchlab/pulse-designer.git
 cd pulse-designer
 pip install -r requirements.txt
+```
 
 ## License
 
