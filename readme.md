@@ -27,4 +27,4 @@ pip install -r requirements.txt
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the [MIT](https://github.com/murchlab/pulse-designer/blob/main/LICENSE) License.
