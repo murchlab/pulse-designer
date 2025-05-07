@@ -5,7 +5,10 @@ from scipy.signal.windows import chebwin
 import matplotlib.pyplot as plt
 import matplotlib
 from pathlib import Path
-from IPython.display import FileLink
+try:
+    from IPython.display import FileLink
+except ImportError:
+    pass
 
 
 def fft_pad(waveform, pad=0):
