@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.fft import fft, fftfreq, fftshift
 from scipy.optimize import minimize
-import nevergrad as ng
 from scipy.signal.windows import chebwin
 import matplotlib.pyplot as plt
 import matplotlib
