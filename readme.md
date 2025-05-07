@@ -2,6 +2,10 @@
 
 A simple Python toolkit to design and apply spectral filters for qubit control pulses.
 
+## Preview
+
+![preview](https://github.com/murchlab/pulse-designer/blob/main/figures/pulse_combined.jpg?raw=true)
+
 ## Requirements
 
 - Python 3.7+
